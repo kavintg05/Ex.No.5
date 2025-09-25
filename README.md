@@ -34,7 +34,8 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
-# EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS
+
+# COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS
 
 ## Aim
 To test and compare how ChatGPT responds to naïve (broad/unstructured) versus basic (clear, detailed, structured) prompts across multiple scenarios, and to analyze the quality, accuracy, and depth of the responses.
