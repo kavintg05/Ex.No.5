@@ -5,6 +5,7 @@
 # Aim: To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
 
 ### AI Tools Required: 
+Chatgpt
 
 # Explanation: 
 Define the Two Prompt Types:
@@ -35,19 +36,9 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 # OUTPUT
 
-## EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS
+## COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS
 
----
 
-## Aim
-The objective of this experiment is to test and compare how ChatGPT responds to two different types of prompting strategies — **naïve prompts** (broad/unstructured) and **basic prompts** (clear, refined, and structured).  
-The study evaluates the **quality, accuracy, and depth** of generated responses across multiple real-world scenarios. The ultimate goal is to understand how prompt engineering affects the usefulness of AI-generated outputs.
-
----
-
-## AI Tool Required
-- **ChatGPT (GPT-5 or equivalent AI model)**  
-  Used as the test model for generating responses and evaluating prompt clarity.
 
 ---
 
